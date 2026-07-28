@@ -29,7 +29,6 @@ The application allows users to add, search, display, and delete contacts, while
 | Language              | Java                                  |
 | IDE                   | NetBeans                              |
 | Data Structure        | ArrayList                             |
-| Programming Paradigm  | Object-Oriented Programming (OOP)     |
 | Interface             | Console                               |
 
 ## Project Structure
@@ -47,16 +46,6 @@ The application allows users to add, search, display, and delete contacts, while
 3. The user selects an option from the menu.
 4. The application performs the requested operation (add, search, delete, or display).
 5. The program returns to the main menu, repeating the cycle until the user selects Exit.
-
-## Object-Oriented Concepts
-
-This project applies several fundamental object-oriented programming principles:
-
-- **Classes**: The Contact class defines a blueprint for what a contact is and what data it holds.
-- **Objects**: Each contact added by the user is created as an individual object of the Contact class.
-- **Encapsulation**: Contact data, such as name, type, and phone numbers, is kept within the Contact class and accessed or modified through defined methods rather than direct manipulation.
-- **Methods**: Behavior such as adding a phone number, removing a phone number, and validating contact type is implemented as methods within the relevant classes.
-- **Collections**: The ArrayList is used both to store the list of contacts and to store the list of phone numbers within each contact, showcasing practical use of Java's Collections Framework.
 
 ## Search Algorithm
 
@@ -93,25 +82,13 @@ Welcome to our Address Book
 Building this project helped reinforce the following concepts:
 
 - Java fundamentals
-- OOP principles
 - Working with ArrayList
 - User input handling
 - Search algorithms
 - Data validation
 - Console application design
 
-## Future Improvements
-
-- Save contacts to a file.
-- Load contacts automatically on startup.
-- Edit existing contacts.
-- Sort contacts alphabetically.
-- Search by contact type.
-- Build a GUI version using JavaFX or Swing.
-- Integrate a database for persistent storage.
-- Export contacts to CSV.
-
-## Author
+## Developer 
 
 **Name:** Mohanad Abu Ammar
 **Major:** Cybersecurity Engineering Student
