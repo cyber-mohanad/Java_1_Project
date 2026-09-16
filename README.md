@@ -146,5 +146,4 @@ Ideas for future versions of this project:
 
 **Name:** Mohanad Abu Ammar
 **Major:** Cybersecurity Engineering Student
-**GitHub:** <https://github.com/cyber-mohanad>
-**LinkedIn:** <https://www.linkedin.com/in/mohanad-abuammar>
+[LinkedIn](https://www.linkedin.com/in/mohanad-abuammar)
